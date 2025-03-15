@@ -1,0 +1,8 @@
+"WarBox"
+{
+	"base"				"sandbox"
+	"title"				"WarBox"
+	"category"			"other"
+	"menusystem"			"0"
+	"workshopid"			"3442148790"
+}
